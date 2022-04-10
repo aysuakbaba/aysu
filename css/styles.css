@@ -1,0 +1,141 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  position: relative;
+
+
+}
+
+h1{
+  font-size: 5.6rem;
+  margin: 50px auto 0 auto;
+  position: relative;
+  top: 50px;
+  font-family: 'Cookie', cursive;
+}
+
+.pro{
+  font-size:1.5rem;
+  position: relative;
+  top: 60px;
+  font-family: 'Montserrat', sans-serif;
+  color: black;
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #655D8A;
+
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color: #655D8A;
+
+}
+
+a{
+  color:#11999E;
+}
+
+p{
+  font-weight: normal;
+  line-height: 2;
+}
+
+
+
+
+.top-container{
+  background-color: #B1D0E0;
+  position: relative;
+  padding-top: 100px;
+
+}
+
+
+.ad{
+  text-decoration: underline;
+}
+
+
+.bottom-cloud{
+  position: absolute;
+  right:1050px;
+
+}
+
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top:80px;
+}
+
+.mountain{
+  position:relative;
+  padding-bottom: 5px
+
+
+}
+
+.middle-container{
+padding-bottom: 20px;
+
+
+}
+.skills{
+  margin-top: 40px;
+  margin-bottom: 60px;
+  position:relative;
+}
+
+
+.contact-me{
+  position: relative;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  bottom: 10px;
+
+}
+
+.profile{
+  position: relative;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  padding-bottom: 40px;
+}
+
+
+
+.bottom-container{
+  position: relative;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  margin-bottom: 0;
+  background-color: #e6bccf;
+
+
+}
+.footer-link{
+  padding-right: 10px;
+}
+
+.graphic{
+  float: left;
+  margin-right: 30px;
+}
+
+.web{
+  float: right;
+  margin-left: 30px;
+}
+
+.python{
+  float: left;
+  margin-right: 30px;
+}
